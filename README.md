@@ -1,2 +1,2 @@
 # Simon-Game
-Simon-Game webiste
+Simon-Game website
